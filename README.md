@@ -60,5 +60,5 @@ fls -f fat -o 0 disk.dd
 ![435593467-2f3834c6-b0da-45d9-a207-c1afc7937b3c](https://github.com/user-attachments/assets/83a87658-c58b-4a01-b492-91f5f57bfa86)
 
 
-RESULT:
+## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
